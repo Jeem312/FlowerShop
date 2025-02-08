@@ -1,0 +1,41 @@
+.Text-div{
+    max-width: 500px;
+    text-align: center;
+   margin: 30px auto;
+}
+.container{width: 75%;
+    max-width: 1440px;
+  margin:0 auto ;
+   }
+   .heading{
+    font-size: 30px;
+    font-weight: 800px;
+   }
+   .Features{
+    padding: 100px auto;
+   }
+   .flower-div{
+    display: flex;
+    gap: 24px;
+   }
+  .flowerContainer-1{
+    height: 500px;
+    border-radius: 300px 300px 0px 0px;
+
+background: rgba(71, 125, 17, 0.15);
+  } 
+  .flowerContainer-2{
+    height: 500px;
+    border-radius: 300px 300px 0px 0px;
+
+background: rgba(5, 151, 160, 0.15);
+  } 
+  .flowerContainer-3{
+    height: 500px;
+    border-radius: 300px 300px 0px 0px;
+
+    background: rgba(71, 125, 17, 0.15);
+  } 
+.flowers{
+    height: 550px;
+}
