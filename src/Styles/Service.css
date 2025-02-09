@@ -1,0 +1,28 @@
+.container2{width: 75%;
+    max-width: 1440px;
+  margin:0 auto ;
+  background: rgba(39, 39, 39, 0.05);
+   }
+   .service-img-div{
+    border-radius: 8px;
+   padding: 50px 40px;
+ margin: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   }
+   .imgDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+  }
+ .imgDiv p{
+    color: rgba(39, 39, 39, 0.8);
+
+font-size: 14px;
+font-weight: 600;
+line-height: 35px;
+letter-spacing: 0%;
+text-align: center;
+ }

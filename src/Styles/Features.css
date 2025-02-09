@@ -19,13 +19,14 @@
    }
    .flower-div{
     display: flex;
-    justify-content: space-between
+    justify-content: space-between;
+    gap: 15px;
    }
   .flowerContainer-1{
     height: 500px;
     border-radius: 300px 300px 0px 0px;
     padding: 30px 15px 0;
-    background: rgba(167, 33, 98, 0.15);
+   background: rgba(167, 33, 98, 0.15);
 
 
   } 
@@ -51,10 +52,11 @@ max-width: 400px;
  text-decoration: underline;}
 
  .img-div {
+  padding: 30px 15px 0;
+ 
+  height: 400px;
   display: flex;
-  justify-content: end; 
-  align-items: center; 
-  height: 100%; 
+  align-items: end; 
 }
 
 .img-div img {

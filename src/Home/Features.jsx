@@ -10,7 +10,7 @@ const Features = () => {
            </div>
            <div className='flower-div'>
           <div className='flowers'>
-          <div className='flowerContainer-2'>
+          <div className='flowerContainer-1'>
           <div className='img-div'>
                     
                 <img   src="../Flower Asset/pngwing 6.png" alt="" />
