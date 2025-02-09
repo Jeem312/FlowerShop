@@ -6,18 +6,19 @@
     
     text-align: left; 
 }
-.containerColor{
-    background-color: #E554731A;
-}
+
 .flexBox{
     width: 75%;
    max-width: 1440px;
  margin:0 auto ;
   
     display: flex;
-  
+   
     gap:10px;
 
+}
+.containerColor{
+    background: rgba(229, 84, 115, 0.05);
 }
 .textbox{
     margin-top: 170px ;

@@ -3,7 +3,7 @@ import img from '../Flower Asset/pngwing 10.png';
 import banner from '../Styles/Banner.css'
 const Banner = () => {
     return (
-       <div className='conainerColor'>
+       <div className='containerColor'>
          <div className='flexBox'>
            <div className='textbox'>
             <h1 id='banner-tittle'>Let's make beautiful flowers a part of your life.</h1>
