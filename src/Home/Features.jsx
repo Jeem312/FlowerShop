@@ -10,19 +10,21 @@ const Features = () => {
            </div>
            <div className='flower-div'>
           <div className='flowers'>
-          <div className='flowerContainer-1'>
-                <div>
-                    <img src="../Flower Asset/pngwing 6.png" alt="" />
-                </div>
-             
-            </div>
+          <div className='flowerContainer-2'>
+          <div className='img-div'>
+                    
+                <img   src="../Flower Asset/pngwing 6.png" alt="" />
+              
+                </div></div>
             <p> Pink Flower Tree </p>
           </div>
            <div className="flowers">
            <div className='flowerContainer-2'>
-                <div>
-                    <img src="../Flower Asset/pngwing 5.png" alt="" />
-                </div>
+              
+                   <div className='img-div'>
+                   <img  height={'400px'} width={'350px'} src="../Flower Asset/pngwing 5.png" alt="" />
+                   </div>
+               
         
             </div>
             
@@ -31,11 +33,14 @@ const Features = () => {
            </div>
           <div className='flowers'>
           <div className='flowerContainer-3'>
-                <div>
-                    <img src="../Flower Asset/pngwing 7.png" alt="" />
+                <div className='img-div'>
+                    
+                <img   src="../Flower Asset/pngwing 7.png" alt="" />
+              
                 </div>
-                <p> Yellow Flower Tree </p>
+               
             </div>
+            <p> Yellow Flower Tree </p>
           </div>
            </div>
        </div>
