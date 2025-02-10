@@ -7,7 +7,7 @@ const HotDeal = () => {
            <div className='contentDiv'>
              {/* TextDiv */}
              <div className='text-div'>
-             <h1 className='tittle'>Hot Deal ! Sale Up To 25% <span>Off</span>.</h1>
+             <h1 className='tittle'>Hot Deal ! Sale Up To 25% <span className='color'>Off</span>.</h1>
                   <p className=''>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                   <button className='button'>Shop Now</button>
                 </div>

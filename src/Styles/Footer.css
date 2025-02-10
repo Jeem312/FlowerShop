@@ -1,0 +1,18 @@
+.footer{
+    background: rgb(17, 16, 16);
+    margin-top: 100px;
+    padding: 100px;
+}
+.Text-div2{
+    max-width: 500px;
+    text-align: center;
+   margin: 30px auto;
+   color: white;
+}
+.copyright-text{
+    margin: 30px;
+    color: rgba(255, 255, 255, 0.4);
+}
+.FlowerText{
+   color:  #E55473;
+}
