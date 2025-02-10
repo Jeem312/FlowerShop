@@ -1,6 +1,29 @@
 .HotLDeal{
     background: rgba(229, 84, 115, 0.05);
+    margin-top: 100px;
+    margin-bottom: 108px;
 }
 .contentDiv{
     display: flex;
+    justify-content: space-around;
+}
+.tittle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-div p{
+    width: 500px;
+    text-align: center;
+
+
+}
+.text-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.image-div{
+    margin: 100px 0;
 }

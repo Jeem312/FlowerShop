@@ -1,0 +1,13 @@
+.instragramImage{
+    display: flex;
+    justify-content: space-around;
+    gap: 15px;
+}
+.instragramImage img{
+    width: 300px;
+    height: 300px;
+}
+.instragramDiv{
+    margin-top: 100px;
+    margin-bottom: 108px;
+}
